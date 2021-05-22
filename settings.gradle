@@ -1,0 +1,3 @@
+include ':victorlib'
+include ':app'
+rootProject.name = "p151_WorkGitLibrary"
